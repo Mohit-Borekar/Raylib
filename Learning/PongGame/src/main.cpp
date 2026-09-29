@@ -3,6 +3,8 @@
 
 using namespace std;
 
+Color Purple = 
+
 int player_score = 0;
 int cpu_score = 0;
 
